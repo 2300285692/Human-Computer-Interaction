@@ -1,0 +1,17 @@
+E:\练习试卷（离散数学Ⅰ）\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\练习试卷（离散数学Ⅰ）\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\练习试卷（离散数学Ⅰ）\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\练习试卷（离散数学Ⅰ）\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+E:\练习试卷（离散数学Ⅰ）\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\练习试卷（离散数学Ⅰ）\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\练习试卷（离散数学Ⅰ）\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+E:\练习试卷（离散数学Ⅰ）\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\练习试卷（离散数学Ⅰ）\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\练习试卷（离散数学Ⅰ）\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.shujia.resources
+E:\练习试卷（离散数学Ⅰ）\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.paihangbang.resources
+E:\练习试卷（离散数学Ⅰ）\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.daochu.resources
+E:\练习试卷（离散数学Ⅰ）\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.chaofan.resources
+E:\练习试卷（离散数学Ⅰ）\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+E:\2016学期\大三_上学期\人机交互\人机交互实验和大作业要求\20142998李国帅\CS结构用户界面设计源程序\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\2016学期\大三_上学期\人机交互\人机交互实验和大作业要求\20142998李国帅\CS结构用户界面设计源程序\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\2016学期\大三_上学期\人机交互\人机交互实验和大作业要求\20142998李国帅\CS结构用户界面设计源程序\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
